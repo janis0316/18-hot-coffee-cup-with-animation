@@ -14,7 +14,3 @@ Site published at: https://github.com/janis0316/18-hot-coffee-cup-with-animation
 ## 🎅 Author
 
 Laura: [Github](https://github.com/janis0316)
-
-## ⚠️ License
-
-Distributed under the ISC License. See LICENSE.txt for more information.
