@@ -1,7 +1,6 @@
 # HOT COFFEE CUP
 
 _Animated design project_
-<br>
 
 ## 🌟 About
 
